@@ -4,5 +4,4 @@
 구글 드라이브
 https://drive.google.com/drive/folders/1zN4xBLSRKJAxwSsPcmZJ61YaermDIrP3?usp=drive_link
 
-### 실행 파일 경로
-알고리즘 기능통합/최종본
+실행 파일 경로 : *알고리즘 기능통합/최종본*

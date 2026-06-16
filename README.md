@@ -3,6 +3,6 @@
 
 구글 드라이브 링크 : https://drive.google.com/drive/folders/1zN4xBLSRKJAxwSsPcmZJ61YaermDIrP3?usp=drive_link
 
-발표영상 링크 : 추후 수정
+발표영상 링크 : *추후 수정*
 
-실행 파일 : *알고리즘 기능통합/최종본*
+실행 파일 : 알고리즘 기능통합/최종본

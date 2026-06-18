@@ -3,6 +3,7 @@ Google Colab
 
 ② 필요 라이브러리
 pandas, flask, flask-cors, pyngrok
+(드라이브 폴더 requirements.txt)
 
 ③ 완성코드에 자료구조, 알고리즘명 부분에 주석으로 표시하기 
 done
